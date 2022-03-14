@@ -1,0 +1,44 @@
+
+.navigation {font-family: serif;
+    color: white;
+    background-color: black;
+    display: flex; 
+    justify-content:space-between; 
+    text-align: center;
+    align-items: baseline;
+    
+    
+
+}
+
+#CFH {
+    background-color: purple; 
+    font-size: 55px; 
+    padding: 20px;
+
+}
+
+
+.Flex-container {
+    display: flex; 
+    font-family: serif;
+    color: white;
+    background-color: black;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.unordered-list {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+.unordered-list li {
+    padding: 20px;
+}
+
+
+
+
